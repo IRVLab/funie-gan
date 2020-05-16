@@ -3,6 +3,7 @@
 - Simplified implementations of **UGAN** and its variants ([original repo](https://github.com/cameronfabbri/Underwater-Color-Correction))
 - Modules for quantifying image quality based on **UIQM**, **SSIM**, and **PSNR**
 - Implementation: TensorFlow >= 1.11.0, Keras >= 2.2, and Python 2.7
+- *This repository contains module at the time of publication; sub-sequent updates can be found [here](https://github.com/xahidbuffon/FUnIE-GAN)* 
   
 | Perceptual enhancement | Color and sharpness   | Hue and contrast   | 
 |:--------------------|:--------------------|:--------------------|
